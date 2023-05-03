@@ -1,2 +1,1 @@
-# .github
-read
+	/sourceforge/:interval/:poisonlinux/:ISO
